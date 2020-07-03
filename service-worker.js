@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.db25db56cc2a605f732543fda643b47d.js"
+  "precache-manifest.90fa9f2672f8bd67b299b21589608018.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "homer"});
